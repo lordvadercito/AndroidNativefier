@@ -1,4 +1,4 @@
-# Android Nativifier
+# Android Nativefier
 _Convierte una aplicación web en una aplicación Android nativa fácilmente_
 
 ## Comenzando 🚀
