@@ -3,6 +3,7 @@ _Convierte una aplicación web en una aplicación Android nativa fácilmente_
 
 ## Comenzando 🚀
 Sólo copia este repositorio :)
+Y asegurate de que tu web app sea 100% responsive
 
 ## Detalles 📋
 
